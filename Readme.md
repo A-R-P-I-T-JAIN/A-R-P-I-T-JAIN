@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arpit</h1>
 <h3 align="center">Full stack developer by day 💻, debugger by night 🐛🔧</h3>
-<img align="right" alt="Coding" width="400" src="./profile.gif" />
+<img align="right" alt="Coding" width="400" src="./programming.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-r-p-i-t-jain&label=Profile%20views&color=0e75b6&style=flat" alt="a-r-p-i-t-jain" /> </p>
 
